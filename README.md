@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @fictionfreeway (William Watlington)
-- 👀 I’m interested in web development & game development through Unity
+- 👀 I’m interested in web development & game development
 - 🌱 I’m currently learning full stack web development at Bellevue University
 - 📫 Reach me @ fictionfreeway@gmail.com
