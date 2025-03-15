@@ -11,7 +11,7 @@ Helping businesses build beautiful, modern, and functional websites!
 ---
 
 ### 📚 Web Developer at Blue Ridge Regional Library
-Building and maintaining **BRRL Events**, an event management system designed to streamline library programming for staff and patrons.
+Building and maintaining **BRRL Events**, an event management system designed to streamline library programming for staff and patrons. Creator, maintainer, and sole developer of the BRRL.lib.va.us website.
 
 ---
 
@@ -21,8 +21,8 @@ Passionate about front-end & back-end development, UI/UX, and seamless digital e
 
 ---
 
-### 🎮 Game Developer | 100K+ Downloads on Google Play!
-Created and launched a mobile game that has surpassed **100,000 downloads**! 🚀
+### 🎮 Game Developer | 100K+ Downloads
+Created and launched a mobile racing game that surpassed **100,000 downloads**! 🚀
 
 ---
 
